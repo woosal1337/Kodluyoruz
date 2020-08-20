@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/GitHub/CS50/Week 1/Mario/cmake-build-debug/CMakeFiles/Mario.dir/embed.manifest"

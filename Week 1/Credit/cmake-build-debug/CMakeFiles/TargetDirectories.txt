@@ -1,0 +1,3 @@
+/media/woosal/woosal/GitHub/CS50/Week 1/Credit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/woosal/woosal/GitHub/CS50/Week 1/Credit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/woosal/woosal/GitHub/CS50/Week 1/Credit/cmake-build-debug/CMakeFiles/Credit.dir

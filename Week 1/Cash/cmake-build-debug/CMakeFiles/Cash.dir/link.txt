@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Cash.dir/main.c.o  -o Cash 
