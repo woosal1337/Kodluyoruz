@@ -1,0 +1,3 @@
+D:/GitHub/CS50/Week 3/Recover/cmake-build-debug/CMakeFiles/Recover.dir
+D:/GitHub/CS50/Week 3/Recover/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/CS50/Week 3/Recover/cmake-build-debug/CMakeFiles/rebuild_cache.dir
