@@ -1,0 +1,3 @@
+D:/GitHub/CS50/Week 3/Resize/cmake-build-debug/CMakeFiles/Resize.dir
+D:/GitHub/CS50/Week 3/Resize/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/CS50/Week 3/Resize/cmake-build-debug/CMakeFiles/rebuild_cache.dir
