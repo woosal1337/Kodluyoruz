@@ -1,0 +1,3 @@
+D:/GitHub/CS50/Week 4/Speller/cmake-build-debug/CMakeFiles/Speller.dir
+D:/GitHub/CS50/Week 4/Speller/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/CS50/Week 4/Speller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
